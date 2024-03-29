@@ -1,6 +1,6 @@
 {
     "BeeUltrasonic": {
-      "name": "BeeUltrasonic",
+      "name": "Ultrasonic",
       "description": "Ultrasonic sensor",
       "author": "BeeBlock",
       "category": "Sensor",
