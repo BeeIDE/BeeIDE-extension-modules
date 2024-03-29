@@ -5,7 +5,7 @@
       "author": "BeeBlock",
       "category": "Sensor",
       "version": "1.0.0",
-      "icon": "/static/ultrasonic.png",
+      "icon": "/static/icon.png",
       "color": "#3498DB",
       "chip": [
         "ESP32"
