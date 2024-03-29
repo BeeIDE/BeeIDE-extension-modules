@@ -14,7 +14,7 @@
       "github": "https://github.com/BeeIDE/BeeUltrasonic"
     },
     "Color Module": {
-      "name": "Color Module",
+      "name": "Color Detect",
       "description": "Color detect sensor",
       "author": "BeeBlock",
       "category": "Sensor",
