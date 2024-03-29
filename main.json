@@ -14,7 +14,7 @@
       "github": "https://github.com/BeeIDE/BeeUltrasonic"
     },
     "Color Module": {
-      "name": "Color Detect",
+      "name": "Color",
       "description": "Color detect sensor",
       "author": "BeeBlock",
       "category": "Sensor",
@@ -28,8 +28,8 @@
       "github": "https://github.com/BeeIDE/BeeColorDetect"
     },
     "Led Segment": {
-      "name": "Led 7 Segment",
-      "description": "Color detect sensor",
+      "name": "Led digit",
+      "description": "Led 7 segments",
       "author": "BeeBlock",
       "category": "Display",
       "version": "1.0.0",
