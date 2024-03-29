@@ -26,5 +26,19 @@
       ],
       "depends": [],
       "github": "https://github.com/BeeIDE/BeeColorDetect"
+    },
+    "Led Segment": {
+      "name": "Led 7 Segment",
+      "description": "Color detect sensor",
+      "author": "BeeBlock",
+      "category": "Display",
+      "version": "1.0.0",
+      "icon": "/static/led7segments.png",
+      "color": "#3498DB",
+      "chip": [
+        "ESP32"
+      ],
+      "depends": [],
+      "github": "https://github.com/BeeIDE/BeeLedSegment"
     }
 }
