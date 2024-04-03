@@ -53,6 +53,6 @@
         "ESP32"
       ],
       "depends": [],
-      "github": "https://github.com/BeeIDE/BeeMic"
+      "github": "https://github.com/BeeIDE/BeeMicrophone"
     }
 }
