@@ -67,6 +67,6 @@
         "ESP32"
       ],
       "depends": [],
-      "github": "https://github.com/BeeIDE/MatrixLed"
+      "github": "https://github.com/BeeIDE/LedMatrix"
     }
 }
