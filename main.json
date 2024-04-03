@@ -6,7 +6,7 @@
       "category": "Sensor",
       "version": "1.0.0",
       "icon": "/static/icon.png",
-      "color": "#3498DB",
+      "color": "#238c3f",
       "chip": [
         "ESP32"
       ],
@@ -20,7 +20,7 @@
       "category": "Sensor",
       "version": "1.0.0",
       "icon": "/static/colorsensor.png",
-      "color": "#3498DB",
+      "color": "#F5C402",
       "chip": [
         "ESP32"
       ],
@@ -34,7 +34,7 @@
       "category": "Display",
       "version": "1.0.0",
       "icon": "/static/led7segments.png",
-      "color": "#3498DB",
+      "color": "#3d87ff",
       "chip": [
         "ESP32"
       ],
