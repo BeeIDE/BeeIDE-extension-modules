@@ -54,5 +54,19 @@
       ],
       "depends": [],
       "github": "https://github.com/BeeIDE/BeeMicrophone"
+    },
+    "Matrix": {
+      "name": "Matrix",
+      "description": "Matrix led 5x5",
+      "author": "BeeBlock",
+      "category": "Display",
+      "version": "1.0.0",
+      "icon": "/static/matrix.png",
+      "color": "#009777",
+      "chip": [
+        "ESP32"
+      ],
+      "depends": [],
+      "github": "https://github.com/BeeIDE/MatrixLed"
     }
 }
