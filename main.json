@@ -40,5 +40,19 @@
       ],
       "depends": [],
       "github": "https://github.com/BeeIDE/BeeLedSegment"
+    },
+    "Sound": {
+      "name": "Sound",
+      "description": "Sound sensor",
+      "author": "BeeBlock",
+      "category": "Display",
+      "version": "1.0.0",
+      "icon": "/static/mic.png",
+      "color": "#0050a1",
+      "chip": [
+        "ESP32"
+      ],
+      "depends": [],
+      "github": "https://github.com/BeeIDE/BeeMic"
     }
 }
