@@ -3,7 +3,7 @@
       "name": "Ultrasonic",
       "description": "Ultrasonic sensor",
       "author": "BeeBlock",
-      "category": "Sensor",
+      "category": "Sensors",
       "version": "1.0.0",
       "icon": "/static/icon.png",
       "color": "#238c3f",
@@ -17,7 +17,7 @@
       "name": "Color",
       "description": "Color detect sensor",
       "author": "BeeBlock",
-      "category": "Sensor",
+      "category": "Sensors",
       "version": "1.0.0",
       "icon": "/static/colorsensor.png",
       "color": "#F5C402",
@@ -68,5 +68,19 @@
       ],
       "depends": [],
       "github": "https://github.com/BeeIDE/LedMatrix"
+    },
+    "IR": {
+      "name": "IR",
+      "description": "Line detect sensor",
+      "author": "BeeBlock",
+      "category": "Sensors",
+      "version": "1.0.0",
+      "icon": "/static/matrix.png",
+      "color": "#690300",
+      "chip": [
+        "ESP32"
+      ],
+      "depends": [],
+      "github": "https://github.com/BeeIDE/BeeLineDetect"
     }
 }
