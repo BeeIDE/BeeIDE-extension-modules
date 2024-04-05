@@ -62,7 +62,7 @@
       "category": "Display",
       "version": "1.0.0",
       "icon": "/static/matrix.png",
-      "color": "#009777",
+      "color": "#005873",
       "chip": [
         "ESP32"
       ],
