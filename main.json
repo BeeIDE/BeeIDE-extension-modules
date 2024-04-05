@@ -75,7 +75,7 @@
       "author": "BeeBlock",
       "category": "Sensors",
       "version": "1.0.0",
-      "icon": "/static/matrix.png",
+      "icon": "/static/IR.png",
       "color": "#690300",
       "chip": [
         "ESP32"
