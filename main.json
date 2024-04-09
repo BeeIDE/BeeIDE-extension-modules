@@ -89,7 +89,7 @@
       "author": "BeeBlock",
       "category": "Sensors",
       "version": "1.0.0",
-      "icon": "/static/temp-humi.png",
+      "icon": "/static/hdc1080.png",
       "color": "#0096d6",
       "chip": [
         "ESP32"
