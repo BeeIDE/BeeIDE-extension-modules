@@ -82,5 +82,19 @@
       ],
       "depends": [],
       "github": "https://github.com/BeeIDE/BeeLineDetection"
+    },
+    "HDC1080": {
+      "name": "HDC1080",
+      "description": "Temperature and humidity sensor",
+      "author": "BeeBlock",
+      "category": "Sensors",
+      "version": "1.0.0",
+      "icon": "/static/temp-humi.png",
+      "color": "#0096d6",
+      "chip": [
+        "ESP32"
+      ],
+      "depends": [],
+      "github": "https://github.com/BeeIDE/BeeHDC1080"
     }
 }
