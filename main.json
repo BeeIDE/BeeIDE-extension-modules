@@ -47,7 +47,7 @@
       "author": "BeeBlock",
       "category": "Display",
       "version": "1.0.0",
-      "icon": "/static/mic.png",
+      "icon": "/static/mic-ico.png",
       "color": "#0050a1",
       "chip": [
         "ESP32"
